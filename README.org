@@ -10,6 +10,8 @@
 #+LATEX_HEADER: \usepackage{amsmath}
 
 * Find the mass centroid of three particles
+#+ATTR_HTML: :width 900px
+[[./instructions.png]]
 
 If three point masses are located at
 
