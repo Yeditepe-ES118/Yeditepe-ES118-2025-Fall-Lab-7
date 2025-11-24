@@ -13,6 +13,7 @@
 #+ATTR_HTML: :width 900px
 [[./instructions.png]]
 
+#+BEGIN_COMMENT
 If three point masses are located at
 
 \begin{equation}
@@ -49,3 +50,4 @@ c_y = \frac{\sum_{i=1}^3 p_i^y m_i}{\sum_{i=1}^3 m_i}
 \end{equation}
 
 Create a function called ~centroid~ in a new file called ~lab7.py~ so that it will take $p_1^x,p_1^y,p_2^x,p_2^y,p_3^x,p_3^y,m_1,m_2,m_3$ as inputs, and it will return $c_x,c_y$ and the total mass. It will also plot the particles and the center of mass.
+#+END_COMMENT
