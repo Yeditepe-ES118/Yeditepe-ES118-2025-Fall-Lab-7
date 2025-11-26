@@ -49,5 +49,5 @@ c_x = \frac{\sum_{i=1}^3 p_i^x m_i}{\sum_{i=1}^3 m_i}
 c_y = \frac{\sum_{i=1}^3 p_i^y m_i}{\sum_{i=1}^3 m_i}
 \end{equation}
 
-Create a function called ~centroid~ in a new file called ~lab7.py~ so that it will take $p_1^x,p_1^y,p_2^x,p_2^y,p_3^x,p_3^y,m_1,m_2,m_3$ as inputs, and it will return $c_x,c_y$ and the total mass. It will also plot the particles and the center of mass.
+Create a function called ~centroid~ in a new file called ~lab7.py~ so that it will take $p_1^x,p_1^y,p_2^x,p_2^y,p_3^x,p_3^y,m_1,m_2,m_3$ as inputs, and it will return the total mass, $c_x$ and $c_y$. It will also plot the particles and the center of mass.
 #+END_COMMENT
